@@ -1,0 +1,226 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "MacBook Pro 16",
+    "product_image": "https://i.ytimg.com/vi/Grse3sgeHpM/maxresdefault.jpg",
+    "category": "Computers",
+    "price": 2499,
+    "description": "Apple MacBook Pro 16-inch with M1 Pro chip.",
+    "specification": [
+      "M1 Pro Chip",
+      "16GB RAM",
+      "1TB SSD",
+      "16-inch Retina Display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 2,
+    "product_title": "iPhone 14 Pro Max",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Deep-Purple-7300.jpg",
+    "category": "Phones",
+    "price": 1099,
+    "description": "Apple iPhone 14 Pro Max with A16 Bionic chip.",
+    "specification": [
+      "A16 Bionic Chip",
+      "128GB Storage",
+      "6.7-inch Super Retina XDR Display",
+      "5G Capability"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 3,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://www.comforttechnology.com.bd/wp-content/uploads/2024/04/Dell-XPS-13-9365-2-in-1-Core-i5-7th.jpg",
+    "category": "Computers",
+    "price": 1399,
+    "description": "Dell XPS 13 with 11th Gen Intel Core i7 processor.",
+    "specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.4-inch FHD+ Display"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 4,
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Green-3380.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "Samsung Galaxy S23 Ultra with 200MP camera.",
+    "specification": [
+      "Snapdragon 8 Gen 2",
+      "12GB RAM",
+      "512GB Storage",
+      "6.8-inch Dynamic AMOLED Display"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 5,
+    "product_title": "HP Spectre x360",
+    "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/HP-Spectre-x360-15-Price-in-BD.jpg",
+    "category": "Computers",
+    "price": 1599,
+    "description": "HP Spectre x360 convertible with Intel Evo platform.",
+    "specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD",
+      "13.3-inch 4K UHD Touchscreen"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 6,
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-S9-hero-230912_Full-Bleed-Image.jpg.large.jpg",
+    "category": "Smart Watches",
+    "price": 499,
+    "description": "Apple Watch Series 9 with advanced health features.",
+    "specification": [
+      "S9 Chip",
+      "GPS + Cellular",
+      "Always-On Retina Display",
+      "Blood Oxygen Sensor"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 7,
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://ayota.com.bd/cdn/shop/files/LenovoX1CarbonUsed_1024x.png?v=1714040175",
+    "category": "Computers",
+    "price": 1799,
+    "description": "Lenovo ThinkPad X1 Carbon Gen 9 with Intel Core i7.",
+    "specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "14-inch FHD+ Display"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 8,
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://images.samsung.com/bd/galaxy-watch6/feature/galaxy-watch6-safety-mo.jpg",
+    "category": "Smart Watches",
+    "price": 349,
+    "description": "Samsung Galaxy Watch 6 with fitness tracking.",
+    "specification": [
+      "Exynos W930",
+      "1.5GB RAM",
+      "16GB Storage",
+      "Heart Rate Monitor"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": 9,
+    "product_title": "ASUS ROG Zephyrus G14",
+    "product_image": "https://www.amd.com/content/dam/amd/en/images/products/laptops/2201103-amd-advantage-laptop-rog-zephyrus-g14-video-thumbnail.png",
+    "category": "Computers",
+    "price": 1899,
+    "description": "ASUS ROG Zephyrus G14 gaming laptop with Ryzen 9.",
+    "specification": [
+      "AMD Ryzen 9",
+      "32GB RAM",
+      "1TB SSD",
+      "14-inch QHD 120Hz Display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 10,
+    "product_title": "Anker PowerPort III Nano",
+    "product_image": "https://kryinternational.com/wp-content/uploads/2024/03/Anker-PowerPort-III-Nano-20W-price.png",
+    "category": "Chargers",
+    "price": 29,
+    "description": "Anker PowerPort III Nano 20W fast charger.",
+    "specification": [
+      "20W Fast Charging",
+      "USB-C",
+      "Compact Design",
+      "Compatible with iPhone and Android"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 11,
+    "product_title": "Acer Swift 3",
+    "product_image": "https://i.pcmag.com/imagery/reviews/02VJPiVMXIN15SF4WmIU5pu-1.fit_lim.size_1050x.jpg",
+    "category": "Computers",
+    "price": 999,
+    "description": "Acer Swift 3 lightweight laptop with Intel Core i5.",
+    "specification": [
+      "Intel Core i5",
+      "8GB RAM",
+      "512GB SSD",
+      "14-inch FHD Display"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 12,
+    "product_title": "Belkin Wireless Charging Pad",
+    "product_image": "https://s3.belkin.com/resources/img/overview/wia003/belkin-WIN206-WIN210-APL-11368-Boostcharge-WirelessChargingPad-Environmental-v01-r01-820x461-us.jpg",
+    "category": "Chargers",
+    "price": 59,
+    "description": "Belkin Wireless Charging Pad with 10W charging.",
+    "specification": [
+      "10W Fast Wireless Charging",
+      "Qi Certified",
+      "LED Indicator",
+      "Non-Slip Surface"
+    ],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": 13,
+    "product_title": "Razer Blade 15",
+    "product_image": "https://www.dpreview.com/files/p/articles/6096287211/DLCS1672-Edit.jpeg",
+    "category": "Computers",
+    "price": 2699,
+    "description": "Razer Blade 15 advanced gaming laptop with NVIDIA RTX 3080.",
+    "specification": [
+      "Intel Core i9",
+      "32GB RAM",
+      "1TB SSD",
+      "15.6-inch 4K OLED Display"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 14,
+    "product_title": "Xiaomi Mi Power Bank 3",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5yPOW_g7R2JHClFaPee9q6qwdHpuwrTY1-w&s",
+    "category": "Power Banks",
+    "price": 99,
+    "description": "Xiaomi Mi Power Bank 3 with 10000mAh capacity.",
+    "specification": [
+      "10000mAh Capacity",
+      "Dual USB Output",
+      "Fast Charging",
+      "Compact Design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
